@@ -1,11 +1,11 @@
 # Jonah Obiutom
 
-Founder of [Tervaq](https://tervaq.com).
+I build systems around a simple idea: AI becomes much more useful when it can move beyond answering questions and actually work across the tools, computers, and infrastructure people already use — without taking control away from them.
 
-Building AI-native computing, agent systems, security research, and developer infrastructure.
+Most of my work sits between product and systems engineering. I work across native desktop software, AI agents and orchestration, cloud and network infrastructure, Linux and containers, deployment systems, browser and computer control, security and fraud research, and interface design.
 
-Current work: **Kivren · Obscure OS · Tervaq Cloud · SalesIQ**
+I like staying close to the whole thing — from the network and runtime up to the product people actually use.
 
-[Website](https://jonahobiutom.com) · [X](https://x.com/JonahObiutom) · [LinkedIn](https://linkedin.com/in/jonahobiutom)
+**Current work:** Kivren · Obscure OS · Tervaq Cloud · SalesIQ
 
-Based in Lagos, building for a global audience.
+[Website](https://jonahobiutom.com) · [Tervaq](https://tervaq.com) · [X](https://x.com/JonahObiutom) · [LinkedIn](https://linkedin.com/in/jonahobiutom)
