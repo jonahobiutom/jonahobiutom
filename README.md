@@ -1,11 +1,9 @@
-# Jonah Obiutom
+My long-term mission is to build a **native AI operating system and hardware platform** with **Obscure OS** — designed from the system layer up, rather than as a web interface made to look like an operating system.
 
-I build systems around a simple idea: AI becomes much more useful when it can move beyond answering questions and actually work across the tools, computers, and infrastructure people already use — without taking control away from them.
+I work across operating systems and native runtimes, AI agents and orchestration, cloud and network infrastructure, Linux and containers, deployment systems, browser and computer control, security and fraud research, and product/interface design.
 
-Most of my work sits between product and systems engineering. I work across native desktop software, AI agents and orchestration, cloud and network infrastructure, Linux and containers, deployment systems, browser and computer control, security and fraud research, and interface design.
+I like working across the full stack of the system — from networks, infrastructure, runtimes and devices to the experience people actually use.
 
-I like staying close to the whole thing — from the network and runtime up to the product people actually use.
-
-**Current work:** Kivren · Obscure OS · Tervaq Cloud · SalesIQ
+**Current work:** Obscure OS · Kivren · Tervaq Cloud · SalesIQ
 
 [Website](https://jonahobiutom.com) · [Tervaq](https://tervaq.com) · [X](https://x.com/JonahObiutom) · [LinkedIn](https://linkedin.com/in/jonahobiutom)
