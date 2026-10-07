@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="120" viewBox="0 0 560 120" role="img" aria-label="Tervaq Cloud">
+  <rect x="1" y="1" width="558" height="118" rx="20" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  <rect x="22" y="22" width="76" height="76" rx="18" fill="#F3F0E8"/>
+  <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MjYgNTAwIiB3aWR0aD0iNjI2IiBoZWlnaHQ9IjUwMCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJUZXJ2YXEgSWNvbiI+CiAgPHN0eWxlPgogICAgOnJvb3QgeyBjb2xvci1zY2hlbWU6IGxpZ2h0IGRhcms7IH0KICAgIHBvbHlnb24geyBmaWxsOiAjMTQxNzEzOyB9CiAgICBAbWVkaWEgKHByZWZlcnMtY29sb3Itc2NoZW1lOiBkYXJrKSB7CiAgICAgIHBvbHlnb24geyBmaWxsOiAjZmZmZmZmOyB9CiAgICB9CiAgPC9zdHlsZT4KICA8cG9seWdvbiBwb2ludHM9IjE1MCw2NiA0NjIsNjYgNDE4LDEyMiAxOTIsMTIyIiAvPgogIDxwb2x5Z29uIHBvaW50cz0iMjQ4LDE4NCAyODksMjI0IDI4OSw0NjIgMjQ4LDQyMCIgLz4KICA8cG9seWdvbiBwb2ludHM9IjM2MCwxODQgMzE5LDIyNCAzMTksNDYyIDM2MCw0MjAiIC8+Cjwvc3ZnPgo=" x="32" y="32" width="56" height="56" preserveAspectRatio="xMidYMid meet"/>
+  <text x="120" y="52" fill="#F0F6FC" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="700">Tervaq Cloud</text>
+  <text x="120" y="79" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15">Cloud deployment infrastructure</text>
+  <text x="520" y="65" text-anchor="middle" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24">↗</text>
+</svg>
