@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Tervaq Sales IQ app icon</title>
+  <desc id="desc">A chamfered S-shaped sales flow with an intelligence node in Glacier Blue on Deep Ink.</desc>
+  <defs>
+    <linearGradient id="salesIqPrimary" x1="118" y1="104" x2="402" y2="384" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#BFDBFE"/>
+      <stop offset="0.54" stop-color="#93C5FD"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <linearGradient id="salesIqSecondary" x1="394" y1="330" x2="110" y2="384" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#BFDBFE"/>
+    </linearGradient>
+  </defs>
+  <rect x="24" y="24" width="464" height="464" rx="112" fill="#0B1220"/>
+  <rect x="24.75" y="24.75" width="462.5" height="462.5" rx="111.25" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1.5"/>
+  <path d="M118 120H402L358 174H174L226 222H330L382 274L330 326H178L130 278H306L258 230H166L118 182Z" fill="url(#salesIqPrimary)"/>
+  <path d="M130 330H340L394 384H110Z" fill="url(#salesIqSecondary)"/>
+  <circle cx="382" cy="118" r="15" fill="#F8FAFC"/>
+</svg>
