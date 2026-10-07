@@ -4,6 +4,6 @@ I work across operating systems and native runtimes, AI agents and orchestration
 
 I like working across the full stack of the system — from networks, infrastructure, runtimes and devices to the experience people actually use.
 
-**Current work:** Obscure OS · Kivren · Tervaq Cloud · SalesIQ
+**Current work:** Obscure OS · Kivren · Tervaq Cloud · SalesIQ · Trustlock
 
 [Website](https://jonahobiutom.com) · [Tervaq](https://tervaq.com) · [X](https://x.com/JonahObiutom) · [LinkedIn](https://linkedin.com/in/jonahobiutom)
