@@ -16,6 +16,7 @@ I like working across the full stack of the system — from networks, infrastruc
 </p>
 <p>
   <a href="https://trustlock.direct"><img src="./assets/cards/trustlock.svg" width="49%" alt="TrustLock — Secure escrow + wallet infrastructure" /></a>
+  <a href="https://pivaq.space/"><img src="./assets/cards/pivaq.svg" width="49%" alt="Pivaq — Private access for apps and shared files" /></a>
 </p>
 
 [Website](https://jonahobiutom.com) · [Tervaq](https://tervaq.com) · [X](https://x.com/JonahObiutom) · [LinkedIn](https://linkedin.com/in/jonahobiutom)
