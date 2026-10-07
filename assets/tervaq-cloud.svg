@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 626 500" width="626" height="500" role="img" aria-label="Tervaq Icon">
+  <style>
+    :root { color-scheme: light dark; }
+    polygon { fill: #141713; }
+    @media (prefers-color-scheme: dark) {
+      polygon { fill: #ffffff; }
+    }
+  </style>
+  <polygon points="150,66 462,66 418,122 192,122" />
+  <polygon points="248,184 289,224 289,462 248,420" />
+  <polygon points="360,184 319,224 319,462 360,420" />
+</svg>
